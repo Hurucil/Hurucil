@@ -1,16 +1,20 @@
-## Hi there 👋
+[![MasterHead](https://i.pinimg.com/564x/92/45/50/924550f254f939c1fceaa2e6424b0b4c.jpg)
+<h1 align="center">Merhaba 👋, ben Hürü Çil</h1>
 
-<!--
-**Hurucil/Hurucil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <a href= "https://twitter.com/hurucil" target="blank"><img src="https://img.shields.io/twitter/follow/hurucil?logo=twitter&style=for-the-badge" alt= "hurucil" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+<a href="https://twitter.com/ hurucil" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter. svg" alt = "hurucil" height = "30" genişlik = "40" /></a>
+<a href = "https://linkedin.com/in/huruci̇l" target = "blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huruci̇l" yükseklik ="30" width = "40" /></a>
+<a href = "https://www.leetcode.com/huruci̇l" target "blank"><img align = "center" src = "https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt = "huruci̇l" height = "30" genişlik = "40" / ></a>
+</p>
+
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align = "left"> <a href = "https://developer.android.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons /devicon/master/icons/android/android-original-wordmark.svg" alt = "android" width = "40" height = "40"/> </a> <a href = "https://www.cprogramming .com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt = "c " genişlik = "40" yükseklik = "40"/> </a> <a href = "https://www.w3schools.com/cpp/" target = "_blank" rel = "noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = "cplusplus" width = "40" height = "40"/> </a> <a href = "https://www.w3schools.com/cs/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ csharp/csharp-original.svg" alt = "csharp" width = "40" height = "40"/> </a> <a href = "https://www.java.com" target = "_blank" rel ="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java" width = "40" height = "40 "/> </a> <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank" rel = "noreferrer"> <img src = "https: //raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "40" height = "40"/> </a> <a href = " https://www.mathworks.com/" target = "_blank" rel = "noreferrer"> <img src = "https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt ="matlab" width = "40" height = "40"/> </a> <a href = "https://www.mysql.com/" target = "_blank" rel = "noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "40" height = "40"/> </a > <a href = "https://nodejs.org" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt = "nodejs" width = "40" height = "40"/> </a> <a href = "https:// www.postgresql.org" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt = "postgresql" width = "40" height = "40"/> </a> <a href = "https://unity.com/" target = "_blank" rel = "noreferrer"> <img src= "https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt = "unity" width = "40" height = "40"/> </a> </p>
+
+<p>< img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=hurucil&show_icons=true&locale=en&layout=compact" alt = "hurucil" /></p>
+
+<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=hurucil&" alt = "hurucil" /></p>
